@@ -1,0 +1,12 @@
+# GUI Library
+tkinter            # Pre-installed in Python (optional for documentation)
+Pillow             # For image processing and GUI image assets
+
+# Data and Machine Learning Libraries
+numpy              # For numerical operations
+pandas             # For handling tabular data
+scikit-learn       # For predictive models, if applicable
+
+# Other Utilities
+joblib             # For saving/loading ML models
+matplotlib         # For any potential visualization in the GUI
